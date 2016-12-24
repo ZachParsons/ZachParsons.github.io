@@ -7,7 +7,8 @@ html {
 }
 
 body {
-  background: linear-gradient(#FF8080, #82FF82);
+  background: linear-gradient(#FF8080, #80FF80);
+/*  background: linear-gradient(#FFABAB, #AAFFAA);*/
 /*  min-height: 100%;*/
 }
 
@@ -57,7 +58,6 @@ a.ununderlined {
   background-image: url(screencap.png);
 }
 
-/*need fluid layout for responsive design*/
 @media screen and (max-width: 400px) {
   body {
     font-size: .75em;
